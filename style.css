@@ -49,7 +49,7 @@
       .status-bad { color: #cc0000; }
 
       /* bevisst: bittesmå klikkflater */
-      .tiny-link { font-size: 9px; padding: 2px; border:1px solid transparent; }
+      .tiny-link { font-size: 1rem; padding: 2px; border:1px solid transparent; }
 
       /* bevisst: dupliserte id-er */
       #sekjson { padding: 8px; }
